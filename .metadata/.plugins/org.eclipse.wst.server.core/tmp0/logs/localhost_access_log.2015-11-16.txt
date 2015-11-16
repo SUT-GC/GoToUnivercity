@@ -103,3 +103,16 @@
 0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:32:26 +0800] "GET /GoToUniversity/ideasource/css/idea.css HTTP/1.1" 200 387
 0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:32:45 +0800] "GET /GoToUniversity/ideasource/idea.jsp HTTP/1.1" 200 3526
 0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:32:45 +0800] "GET /GoToUniversity/ideasource/css/idea.css HTTP/1.1" 200 387
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:44:34 +0800] "GET /GoToUniversity/ideasource/ HTTP/1.1" 404 1046
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:44:38 +0800] "GET /GoToUniversity HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:44:38 +0800] "GET /GoToUniversity/ HTTP/1.1" 404 1024
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:45:06 +0800] "GET /GoToUniversity/ HTTP/1.1" 404 1024
+127.0.0.1 - - [16/Nov/2015:19:45:24 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:45:28 +0800] "GET /GoToUniversity/ HTTP/1.1" 200 3526
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:45:28 +0800] "GET /GoToUniversity/css/idea.css HTTP/1.1" 404 1048
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:46:06 +0800] "GET /GoToUniversity/ HTTP/1.1" 200 3549
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:46:06 +0800] "GET /WebContent/ideasource/css/idea.css HTTP/1.1" 404 1062
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:46:14 +0800] "GET /GoToUniversity/ HTTP/1.1" 200 3538
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:46:14 +0800] "GET /ideasource/css/idea.css HTTP/1.1" 404 1040
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:47:18 +0800] "GET /GoToUniversity/ HTTP/1.1" 200 3587
+0:0:0:0:0:0:0:1 - - [16/Nov/2015:19:47:18 +0800] "GET /GoToUniversity/ideasource/css/idea.css HTTP/1.1" 304 -

@@ -7,9 +7,9 @@
 <title>Idea Source</title>
 <!--java 绝对地址 start  -->
 <%
-	String urlp = application.getContextPath()+"/ideasource/";
+	String urlp = application.getContextPath()+"/jsp/";
 %>
-<link href="<%=urlp%>css/idea.css" rel="stylesheet" type="text/css"/>
+<link href="/ideasource/css/idea.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 	<div class="content">

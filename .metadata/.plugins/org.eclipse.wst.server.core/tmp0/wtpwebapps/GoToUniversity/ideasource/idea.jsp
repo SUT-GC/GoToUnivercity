@@ -5,7 +5,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Idea Source</title>
-<link href="css/idea.css" rel="stylesheet" type="text/css"/>
+<!--java 绝对地址 start  -->
+<%
+	String urlp = application.getContextPath()+"/ideasource/";
+%>
+<link href="<%=urlp%>css/idea.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 	<div class="content">
