@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+body{
+	background-color: #DDDDDD;
+}
+.content{
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 100px;
+}
+.content_head{
+	
+}
+.content_body_description > p{
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.content_body_content_ui{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.tail{
+	margin-bottom: 200px;
+}

@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Idea Source</title>
+</head>
+<body>
+	<div class="content">
+		<div class="content_head">
+			<h1>项目名称：Go To Univercity</h1>
+		</div>
+		<div class="content_body">
+			<div class="content_body_description">
+				<h2>项目描述:</h2>
+				<h3>
+					<p>当你在考完高考的时候，你是否还在胡乱的翻着《报考指南》这本超过800的仅仅展示了各高校历年录取分数线的书</p>
+					<p>当你根据预估的分数找到了可能录取你的大学时，你是不是还对这个将要生活四年的大学一无所知</p>
+					<p>你找到了心怡的大学，你是不是还需要查询能考的进的专业？然而在此时，你还对“专业”这个词感到无比的陌生。你报了一个专业，却不知道它是干什么的，有什么就业前景，应该学什么？</p>
+					
+				</h3>
+			</div>
+			<div class="content_body_content">
+			
+			</div>
+		</div>
+	</div>
+</body>
+</html>
